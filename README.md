@@ -10,3 +10,6 @@ Per finire, bisogna creare un metodo main che dichiari un oggetto istanza della 
 
 Per compilare il codice basta scaricare devc++ (https://sourceforge.net/projects/orwelldevcpp/) e una volta copiato il codice basta eseguire con F11 e seguire le richieste del programma.
 
+# Creatori del progetto
+
+  FeF032()
