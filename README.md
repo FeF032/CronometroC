@@ -1,4 +1,4 @@
-# CronometroC
+# Cronometro
 Programma Cronometro in C++
 
 # Spiegazione
