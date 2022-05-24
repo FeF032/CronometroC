@@ -1,5 +1,5 @@
 # CronometroC
-Programma su un cronometro in C++
+Programma Cronometro in C++
 
 # Spiegazione
 
